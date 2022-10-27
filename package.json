@@ -1,7 +1,7 @@
 {
   "name": "new",
   "version": "0.1.0",
-  "homepage": "https://github.com/LogicTech001/logicTech-portfolio",
+  "homepage": "https://github.com/LogicTech001/portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",
